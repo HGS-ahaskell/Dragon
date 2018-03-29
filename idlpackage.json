@@ -1,0 +1,11 @@
+{
+  "Name": "Dragon",
+  "Version": "13.0",
+  "Author": "Sauron",
+  "Dependency": [
+    {
+      "Name": "Fire",
+      "URL": "http://github.com/wizards/fire"
+    }
+  ]
+}
