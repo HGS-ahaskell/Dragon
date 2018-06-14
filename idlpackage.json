@@ -4,8 +4,8 @@
   "Author": "Sauron",
   "Dependency": [
     {
-      "Name": "Fire",
-      "URL": "http://github.com/wizards/fire"
+      "Name": "Brimstone",
+      "URL": "http://github.com/HGS-ahaskell/brimstone"
     }
   ]
 }
