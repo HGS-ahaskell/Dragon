@@ -2,7 +2,7 @@
   "Name": "Dragon",
   "Version": "13.0",
   "Author": "Sauron",
-  "Dependency": [
+  "Dependencies": [
     {
       "Name": "Brimstone",
       "URL": "http://github.com/HGS-ahaskell/brimstone"
